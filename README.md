@@ -103,6 +103,8 @@ Unit tests validate:
 
 Date and storage are abstracted to allow deterministic testing.
 
+<img src="https://github.com/Debashish-hub/TodayTodo/blob/main/Test_case.png" width="700" height="700" /> 
+
 ---
 
 ## 🧩 Widget
@@ -126,7 +128,7 @@ A Home Screen widget displays up to 3 pending tasks for today.
 ---
 
 ## 📸 Demo
-
+<img src="https://github.com/Debashish-hub/TodayTodo/blob/main/gif_1.gif" width="300" height="700" />  <img src="https://github.com/Debashish-hub/TodayTodo/blob/main/gif_2.gif" width="300" height="700" /> 
 
 
 ----
